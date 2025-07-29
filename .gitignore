@@ -1,2 +1,6 @@
 /target
 test.yaml
+.DS_Store
+design
+_notes
+nohup.out
